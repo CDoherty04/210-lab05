@@ -2,7 +2,7 @@
 Name: Charlie Doherty
 KUID: 3115329
 EECS 210 Lab Session: Thursday 4-6
-Lab: 05
+Lab: 06
 Description: Program that takes a number and produces the next num in lexicographic order
 Collaborators: None
 """
